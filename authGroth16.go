@@ -4,12 +4,13 @@ package jwz
 import (
 	"encoding/json"
 	"errors"
-	"math/big"
-
 	"github.com/Coursant/Core_rapidsnark/prover"
 	"github.com/Coursant/Core_rapidsnark/types"
 	"github.com/Coursant/Core_rapidsnark/verifier"
 	"github.com/Coursant/Core_rapidsnark/witness"
+	"github.com/iden3/go-circuits"
+
+	"math/big"
 )
 
 const (
