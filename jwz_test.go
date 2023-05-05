@@ -127,7 +127,7 @@ func TestToken_ParseWithOutputs(t *testing.T) {
 	assert.NoError(t, err)
 	assert.Equal(t, msgHash, outs.Challenge.Bytes())
 
-	did, err := core.ParseDIDFromID(*outs.UserID)
+	did, err := core.ParseDIDFromID(core.ID(*outs.UserID))
 	assert.NoError(t, err)
 	assert.Equal(t, "did:iden3:polygon:mumbai:x4jcHP4XHTK3vX58AHZPyHE8kYjneyE6FZRfz7K29", did.String())
 

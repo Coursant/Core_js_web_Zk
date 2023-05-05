@@ -1,7 +1,7 @@
 github.com/Coursant/Core_origin v1.0.0 h1:sPfH866Ok7LL0jYLI7baI8hQAEMJz++LijS9G6jRhCA=
 github.com/Coursant/Core_origin v1.0.0/go.mod h1:ofGJIakBWy/2v1Pix2iqIviZ0E05Ybo8+yUa3kIb8Gw=
-github.com/Coursant/Core_rapidsnark/prover v1.0.3 h1:8KOnvXwdGE0yqqc4scu6y0J4GvceRsa23cNinz2Yb6U=
-github.com/Coursant/Core_rapidsnark/prover v1.0.3/go.mod h1:jcSbvdZOnV4Kp+9caEw4q1Fpx1cQQ2KlvjI710h44j4=
+github.com/Coursant/Core_rapidsnark/prover v1.0.4 h1:grsmlgcRzJEu9mxemrZsnXeHb/ju5sFnHB/QrEMfL3E=
+github.com/Coursant/Core_rapidsnark/prover v1.0.4/go.mod h1:jcSbvdZOnV4Kp+9caEw4q1Fpx1cQQ2KlvjI710h44j4=
 github.com/Coursant/Core_rapidsnark/types v1.0.2 h1:VZX5MtsGX39ewbnmaKg09NK90oorJoBrmpSD+AKx1ZU=
 github.com/Coursant/Core_rapidsnark/types v1.0.2/go.mod h1:Dd2XBxPVll33KpwSwpjZuCF4W9qj13ylHvS1aNeMrdc=
 github.com/Coursant/Core_rapidsnark/verifier v1.0.2 h1:4WJjEYTeL/WoCwiIFbBnkNCP3UsoTXyT6jyFkmk5LC0=

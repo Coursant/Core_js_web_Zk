@@ -4,12 +4,11 @@ package jwz
 import (
 	"encoding/json"
 	"errors"
-	"github.com/Coursant/Core_rapidsnark/prover"
+	"github.com/Coursant/Core_js_web_Zk/prover"
 	"github.com/Coursant/Core_rapidsnark/types"
 	"github.com/Coursant/Core_rapidsnark/verifier"
 	"github.com/Coursant/Core_rapidsnark/witness"
 	"github.com/iden3/go-circuits"
-
 	"math/big"
 )
 
