@@ -4,7 +4,7 @@ go 1.18
 
 require (
 	github.com/Coursant/Core_origin v1.0.0
-	github.com/Coursant/Core_rapidsnark/prover v1.0.1
+	github.com/Coursant/Core_rapidsnark/prover v1.0.5
 	github.com/Coursant/Core_rapidsnark/types v1.0.2
 	github.com/Coursant/Core_rapidsnark/verifier v1.0.2
 	github.com/Coursant/Core_rapidsnark/witness v1.0.1
