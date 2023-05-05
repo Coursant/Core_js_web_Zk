@@ -5,11 +5,11 @@ go 1.18
 
 require (
 	github.com/iden3/go-circuits v1.0.2
-	github.com/Coursant/Core_origin v1.0.0
+	github.com/Coursant/Core_base v1.0.0
 	github.com/iden3/go-iden3-crypto v0.0.13
 	github.com/Coursant/Core_rapidsnark/prover v1.0.1
 	github.com/Coursant/Core_rapidsnark/types v1.0.2
-	github.com/Coursant/Core_rapidsnark/verifier v1.0.1
+	github.com/Coursant/Core_rapidsnark/verifier v1.0.2
 	github.com/Coursant/Core_rapidsnark/witness v1.0.1
 	github.com/stretchr/testify v1.8.1
 )
