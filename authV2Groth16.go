@@ -6,7 +6,7 @@ import (
 	"hash/crc32"
 	"math/big"
 
-	"github.com/Coursant/Core_rapidsnark/prover"
+	"github.com/Coursant/Core_js_web_Zk/prover"
 	"github.com/Coursant/Core_rapidsnark/types"
 	"github.com/Coursant/Core_rapidsnark/verifier"
 	"github.com/Coursant/Core_rapidsnark/witness"
