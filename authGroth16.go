@@ -10,7 +10,6 @@ import (
 	"github.com/Coursant/Core_rapidsnark/types"
 	"github.com/Coursant/Core_rapidsnark/verifier"
 	"github.com/Coursant/Core_rapidsnark/witness"
-	"github.com/iden3/go-circuits"
 )
 
 const (
@@ -42,6 +41,7 @@ func init() {
 // Alg returns current zk alg
 func (m *ProvingMethodGroth16Auth) Alg() string {
 	return m.ProvingMethodAlg.Alg
+
 }
 
 // CircuitID returns name of circuit
